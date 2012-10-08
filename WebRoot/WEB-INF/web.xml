@@ -21,15 +21,15 @@
     <servlet-class>cn.com.charmyin.cms.backend.view.LoginServlet</servlet-class>
     <init-param>
     	<param-name>width</param-name>
-    	<param-value>62</param-value>
+    	<param-value>82</param-value>
     </init-param>
     <init-param>
     	<param-name>height</param-name>
-    	<param-value>22</param-value>
+    	<param-value>32</param-value>
     </init-param>
     <init-param>
     	<param-name>number</param-name>
-    	<param-value>5</param-value>
+    	<param-value>4</param-value>
     </init-param>
     <init-param>
     	<param-name>codes</param-name>
